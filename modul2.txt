@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 Kelompok 393
 test dong
@@ -7,3 +8,6 @@ haloo
 123
 
 1235
+=======
+TISYAAL 123
+>>>>>>> origin/Tisya-Branch
