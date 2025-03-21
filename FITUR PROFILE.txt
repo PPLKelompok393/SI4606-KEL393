@@ -1,0 +1,1 @@
+fitur profile mencangkup nama, email, dan data user 
